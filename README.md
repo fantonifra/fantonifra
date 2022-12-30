@@ -1,5 +1,5 @@
 ### Hi, I'm Francesco 👋                                                                                                           |   Fav Stacks
----------------------------------------------------------------------------------------------------------------------------------  |
+:---------------------------------------------------------------------------------------------------------------------------------:|:
                                                                                                                                    |    
 - I'm a Computer Scientist interested in Web developing, IA automation, BI and Manifacturing Production Managment                  |
 - I work in 2Next since 2009 as Fullstack Developer and CTO                                                                        | 
