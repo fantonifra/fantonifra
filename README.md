@@ -1,9 +1,9 @@
-### Hi, I'm Francesco 👋
------------------------------------------------------------------------------
-
-- I'm a Computer Scientist interested in Web developing, IA automation, BI and Manifacturing Production Managment
-- I work in 2Next since 2009 as Fullstack Developer and CTO
-
+### Hi, I'm Francesco 👋                                                                                                           |   Fav Stacks
+---------------------------------------------------------------------------------------------------------------------------------  |
+                                                                                                                                   |    
+- I'm a Computer Scientist interested in Web developing, IA automation, BI and Manifacturing Production Managment                  |
+- I work in 2Next since 2009 as Fullstack Developer and CTO                                                                        | 
+                                                                                                                                   | 
 <!--
 **fantonifra/fantonifra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
